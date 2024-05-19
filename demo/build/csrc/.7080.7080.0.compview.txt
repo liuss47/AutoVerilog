@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1715706622.689629868, "rt":0.12, "ut":0.05, "st":0.06}}
+{"vcselab":{"timestamp_begin":1715706622.856444737, "rt":0.14, "ut":0.09, "st":0.05}}
+{"link":{"timestamp_begin":1715706623.037124557, "rt":0.10, "ut":0.05, "st":0.05}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1715706622.394310462}
+{"VCS_COMP_START_TIME": 1715706622.394310462}
+{"VCS_COMP_END_TIME": 1715706623.213341823}
+{"VCS_USER_OPTIONS": "+v2k -full64 -debug_acc+all -debug_region+cell+encrypt -LDFLAGS -Wl,--no-as-needed -timescale=1ns/1ps -o ./build/simtop -l ./build/log/report.log -P /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/novas.tab /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/pli.a /home/summer/Desktop/Project/Counter/src/ccc.v /home/summer/Desktop/Project/Counter/sim/tb.v"}
+{"vcs1": {"peak_mem": 350012}}
+{"stitch_vcselab": {"peak_mem": 228540}}

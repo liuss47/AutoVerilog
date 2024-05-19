@@ -1,0 +1,18 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/home/summer/Desktop/Project/Counter
+VCS_HOME=/home/summer/Synopsys/vcs/T-2022.06-SP2
+VERDI_HOME=/home/summer/Synopsys/verdi/T-2022.06-SP2
+SystemC=FALSE
+UUM=FALSE
+KDB=FALSE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+TOP=counter_testbench 
+OPTION=-ssz -ssv -ssy 
+ELAB_OPTION=-ssz -ssv -ssy 
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a

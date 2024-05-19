@@ -1,0 +1,334 @@
+#######################################################################################
+# log primitive debug message of FSDB dumping                                         #
+# This is for R&D to analyze when there are issues happening when FSDB dump           #
+#######################################################################################
+ANF: vcsd_get_serial_mode_status('././build/simtop: undefined symbol: vcsd_get_serial_mode_status')
+ANF: vcsd_enable_sva_success_callback('././build/simtop: undefined symbol: vcsd_enable_sva_success_callback')
+ANF: vcsd_disable_sva_success_callback('././build/simtop: undefined symbol: vcsd_disable_sva_success_callback')
+ANF: vcsd_get_power_scope_name('././build/simtop: undefined symbol: vcsd_get_power_scope_name')
+ANF: vcsd_begin_no_value_var_info('././build/simtop: undefined symbol: vcsd_begin_no_value_var_info')
+ANF: vcsd_end_no_value_var_info('././build/simtop: undefined symbol: vcsd_end_no_value_var_info')
+ANF: vcsd_remove_xprop_merge_mode_callback('././build/simtop: undefined symbol: vcsd_remove_xprop_merge_mode_callback')
+ANF: vhpi_get_cb_info('././build/simtop: undefined symbol: vhpi_get_cb_info')
+ANF: vhpi_free_handle('././build/simtop: undefined symbol: vhpi_free_handle')
+ANF: vhpi_fetch_vcsd_handle('././build/simtop: undefined symbol: vhpi_fetch_vcsd_handle')
+ANF: vhpi_fetch_vpi_handle('././build/simtop: undefined symbol: vhpi_fetch_vpi_handle')
+ANF: vhpi_has_verilog_parent('././build/simtop: undefined symbol: vhpi_has_verilog_parent')
+ANF: vhpi_is_verilog_scope('././build/simtop: undefined symbol: vhpi_is_verilog_scope')
+ANF: scsd_xprop_is_enabled('././build/simtop: undefined symbol: scsd_xprop_is_enabled')
+ANF: scsd_xprop_sig_is_promoted('././build/simtop: undefined symbol: scsd_xprop_sig_is_promoted')
+ANF: scsd_xprop_int_xvalue('././build/simtop: undefined symbol: scsd_xprop_int_xvalue')
+ANF: scsd_xprop_bool_xvalue('././build/simtop: undefined symbol: scsd_xprop_bool_xvalue')
+ANF: scsd_xprop_enum_xvalue('././build/simtop: undefined symbol: scsd_xprop_enum_xvalue')
+ANF: scsd_xprop_register_merge_mode_cb('././build/simtop: undefined symbol: scsd_xprop_register_merge_mode_cb')
+ANF: scsd_xprop_delete_merge_mode_cb('././build/simtop: undefined symbol: scsd_xprop_delete_merge_mode_cb')
+ANF: scsd_xprop_get_merge_mode('././build/simtop: undefined symbol: scsd_xprop_get_merge_mode')
+ANF: scsd_thread_get_info('././build/simtop: undefined symbol: scsd_thread_get_info')
+ANF: scsd_thread_vc_init('././build/simtop: undefined symbol: scsd_thread_vc_init')
+ANF: scsd_master_set_delta_sync_cbk('././build/simtop: undefined symbol: scsd_master_set_delta_sync_cbk')
+ANF: scsd_fgp_get_fsdb_cores('././build/simtop: undefined symbol: scsd_fgp_get_fsdb_cores')
+ANF: scsd_fgp_get_is_cpu_affinity_disabled('././build/simtop: undefined symbol: scsd_fgp_get_is_cpu_affinity_disabled')
+ANF: vhdi_dt_get_type('././build/simtop: undefined symbol: vhdi_dt_get_type')
+ANF: vhdi_dt_get_key('././build/simtop: undefined symbol: vhdi_dt_get_key')
+ANF: vhdi_dt_get_vhdl_enum_info('././build/simtop: undefined symbol: vhdi_dt_get_vhdl_enum_info')
+ANF: vhdi_dt_get_vhdl_physical_info('././build/simtop: undefined symbol: vhdi_dt_get_vhdl_physical_info')
+ANF: vhdi_dt_get_vhdl_array_info('././build/simtop: undefined symbol: vhdi_dt_get_vhdl_array_info')
+ANF: vhdi_dt_get_vhdl_record_info('././build/simtop: undefined symbol: vhdi_dt_get_vhdl_record_info')
+ANF: vhdi_dt_get_vhdl_integer_range_info('././build/simtop: undefined symbol: vhdi_dt_get_vhdl_integer_range_info')
+ANF: vhdi_def_traverse_module('././build/simtop: undefined symbol: vhdi_def_traverse_module')
+ANF: vhdi_def_traverse_scope('././build/simtop: undefined symbol: vhdi_def_traverse_scope')
+ANF: vhdi_def_traverse_variable('././build/simtop: undefined symbol: vhdi_def_traverse_variable')
+ANF: vhdi_def_get_module_id_by_vhpi('././build/simtop: undefined symbol: vhdi_def_get_module_id_by_vhpi')
+ANF: vhdi_def_get_handle_by_module_id('././build/simtop: undefined symbol: vhdi_def_get_handle_by_module_id')
+ANF: vhdi_def_get_variable_info_by_vhpi('././build/simtop: undefined symbol: vhdi_def_get_variable_info_by_vhpi')
+ANF: vhdi_def_free('././build/simtop: undefined symbol: vhdi_def_free')
+ANF: vhdi_ist_traverse_scope('././build/simtop: undefined symbol: vhdi_ist_traverse_scope')
+ANF: vhdi_ist_traverse_variable('././build/simtop: undefined symbol: vhdi_ist_traverse_variable')
+ANF: vhdi_ist_convert_by_vhpi('././build/simtop: undefined symbol: vhdi_ist_convert_by_vhpi')
+ANF: vhdi_ist_clone('././build/simtop: undefined symbol: vhdi_ist_clone')
+ANF: vhdi_ist_free('././build/simtop: undefined symbol: vhdi_ist_free')
+ANF: vhdi_ist_hash_key('././build/simtop: undefined symbol: vhdi_ist_hash_key')
+ANF: vhdi_ist_compare('././build/simtop: undefined symbol: vhdi_ist_compare')
+ANF: vhdi_ist_get_value_addr('././build/simtop: undefined symbol: vhdi_ist_get_value_addr')
+ANF: vhdi_set_scsd_callback('././build/simtop: undefined symbol: vhdi_set_scsd_callback')
+ANF: vhdi_cbk_set_force_callback('././build/simtop: undefined symbol: vhdi_cbk_set_force_callback')
+ANF: vhdi_trigger_init_force('././build/simtop: undefined symbol: vhdi_trigger_init_force')
+ANF: vhdi_ist_check_scsd_callback('././build/simtop: undefined symbol: vhdi_ist_check_scsd_callback')
+ANF: vhdi_ist_add_scsd_callback('././build/simtop: undefined symbol: vhdi_ist_add_scsd_callback')
+ANF: vhdi_ist_remove_scsd_callback('././build/simtop: undefined symbol: vhdi_ist_remove_scsd_callback')
+ANF: vhdi_ist_get_scsd_user_data('././build/simtop: undefined symbol: vhdi_ist_get_scsd_user_data')
+ANF: vhdi_add_time_change_callback('././build/simtop: undefined symbol: vhdi_add_time_change_callback')
+ANF: vhdi_get_real_value_by_value_addr('././build/simtop: undefined symbol: vhdi_get_real_value_by_value_addr')
+ANF: vhdi_get_64_value_by_value_addr('././build/simtop: undefined symbol: vhdi_get_64_value_by_value_addr')
+ANF: vhdi_xprop_inst_is_promoted('././build/simtop: undefined symbol: vhdi_xprop_inst_is_promoted')
+ANF: vdi_ist_convert_by_vhdi('././build/simtop: undefined symbol: vdi_ist_convert_by_vhdi')
+ANF: vhdi_ist_get_module_id('././build/simtop: undefined symbol: vhdi_ist_get_module_id')
+ANF: vhdi_refine_foreign_scope_type('././build/simtop: undefined symbol: vhdi_refine_foreign_scope_type')
+ANF: vhdi_flush_callback('././build/simtop: undefined symbol: vhdi_flush_callback')
+ANF: vhdi_set_orig_name('././build/simtop: undefined symbol: vhdi_set_orig_name')
+ANF: vhdi_set_dump_pt('././build/simtop: undefined symbol: vhdi_set_dump_pt')
+ANF: vhdi_set_int_subtype('././build/simtop: undefined symbol: vhdi_set_int_subtype')
+ANF: vhdi_get_fsdb_option('././build/simtop: undefined symbol: vhdi_get_fsdb_option')
+ANF: vhdi_fgp_get_mode('././build/simtop: undefined symbol: vhdi_fgp_get_mode')
+ANF: vhdi_node_register_composite_var('././build/simtop: undefined symbol: vhdi_node_register_composite_var')
+ANF: vhdi_node_analysis('././build/simtop: undefined symbol: vhdi_node_analysis')
+ANF: vhdi_node_id('././build/simtop: undefined symbol: vhdi_node_id')
+ANF: vhdi_node_ist_check_scsd_callback('././build/simtop: undefined symbol: vhdi_node_ist_check_scsd_callback')
+ANF: vhdi_node_ist_add_scsd_callback('././build/simtop: undefined symbol: vhdi_node_ist_add_scsd_callback')
+ANF: vhdi_node_ist_get_value_addr('././build/simtop: undefined symbol: vhdi_node_ist_get_value_addr')
+ANF: vhdi_enc_def_traverse_module('././build/simtop: undefined symbol: vhdi_enc_def_traverse_module')
+ANF: vhdi_enc_def_traverse_scope('././build/simtop: undefined symbol: vhdi_enc_def_traverse_scope')
+ANF: vhdi_enc_def_traverse_variable('././build/simtop: undefined symbol: vhdi_enc_def_traverse_variable')
+ANF: vhdi_enc_ist_traverse_scope('././build/simtop: undefined symbol: vhdi_enc_ist_traverse_scope')
+ANF: vhdi_enc_ist_traverse_variable('././build/simtop: undefined symbol: vhdi_enc_ist_traverse_variable')
+ANF: vhdi_enc_ist_get_module_id('././build/simtop: undefined symbol: vhdi_enc_ist_get_module_id')
+ANF: vhdi_enc_def_get_handle_by_module_id('././build/simtop: undefined symbol: vhdi_enc_def_get_handle_by_module_id')
+VCS compile option:
+ option[0]: ././build/simtop
+ option[1]: -l
+ option[2]: ./build/log/run.log
+ option[3]: /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/bin/vcs1
+ option[4]: -Mcc=gcc
+ option[5]: -Mcplusplus=g++
+ option[6]: -Masflags=
+ option[7]: -Mcfl= -pipe -fPIC -O -I/home/summer/Synopsys/vcs/T-2022.06-SP2/include 
+ option[8]: -Mxllcflags=
+ option[9]: -Mxcflags= -pipe -fPIC -I/home/summer/Synopsys/vcs/T-2022.06-SP2/include
+ option[10]: -Mldflags= -Wl,--no-as-needed -rdynamic 
+ option[11]: -Mout=./build/simtop
+ option[12]: -Mamsrun=
+ option[13]: -Mvcsaceobjs=
+ option[14]: -Mobjects= /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libvirsim.so /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/liberrorinf.so /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libsnpsmalloc.so /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libvfs.so /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/pli.a 
+ option[15]: -Mexternalobj=
+ option[16]: -Msaverestoreobj=/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/vcs_save_restore_new.o
+ option[17]: -Mcrt0=
+ option[18]: -Mcrtn=
+ option[19]: -Mcsrc=
+ option[20]: -Msyslibs=/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64/pli.a -ldl -lm 
+ option[21]: -l
+ option[22]: ./build/log/report.log
+ option[23]: +v2k
+ option[24]: -full64
+ option[25]: -debug_acc+all
+ option[26]: +vpi
+ option[27]: +vcsd1
+ option[28]: +itf+/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/vcsdp_lite.tab
+ option[29]: -debug_region+cell+encrypt
+ option[30]: -timescale=1ns/1ps
+ option[31]: -o
+ option[32]: ./build/simtop
+ option[33]: -P
+ option[34]: /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/novas.tab
+ option[35]: -picarchive
+ option[36]: -P
+ option[37]: /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64/verdi.tab
+ option[38]: -fsdb
+ option[39]: -gen_obj
+ option[40]: /home/summer/Desktop/Project/Counter/src/ccc.v
+ option[41]: /home/summer/Desktop/Project/Counter/sim/tb.v
+ option[42]: -load
+ option[43]: /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64/libnovas.so:FSDBDumpCmd
+ option[44]: timescale=1ns/1ps
+Chronologic Simulation VCS Release T-2022.06-SP2_Full64
+Linux 3.10.0-1160.el7.x86_64 #1 SMP Tue Aug 18 14:50:17 EDT 2020 x86_64
+CPU cores: 16
+Limit information:
+======================================
+cputime		unlimited
+filesize		unlimited
+datasize		unlimited
+stacksize		8192 kbytes
+coredumpsize		0 kbytes
+memoryuse		unlimited
+vmemoryuse		unlimited
+descriptors		4096
+memorylocked		64 kbytes
+maxproc		4096
+======================================
+(Special)Runtime environment variables:
+
+Runtime environment variables:
+DESKTOP_SESSION=gnome-classic
+XDG_SESSION_TYPE=x11
+XAUTHORITY=/run/gdm/auth-for-summer-Ua7SNk/database
+GDMSESSION=gnome-classic
+XMODIFIERS=@im=ibus
+SHELL=/bin/bash
+GDM_LANG=en_US.UTF-8
+VTE_VERSION=5204
+OA_PLUGIN_PATH=/home/summer/Cadence/IC618/oa_v22.60.088/data/plugins
+_=/bin/make
+SPECMAN_DIR=/home/summer/Cadence/XCELIUMMAIN22.09/components/sn/
+HISTCONTROL=ignoredups
+SNPSLMD_LICENSE_FILE=27000@yian
+USERNAME=summer
+XDG_DATA_DIRS=/home/summer/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+INDAGO_ROOT=/home/summer/Cadence/INDAGOA722.03
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+PATH=/home/summer/Synopsys/vc_static/T-2022.06-SP2/bin:/home/summer/Cadence/IC618/tools/plot/bin:/home/summer/Cadence/IC618/tools/iccraft/bin:/home/summer/Cadence/IC618/tools/dracula/bin:/home/summer/Cadence/IC618/tools/dfII/bin:/home/summer/Cadence/IC618/tools/bin:/home/summer/Cadence/IC618/share/bin:/home/summer/Cadence/IC618/bin:/home/summer/Synopsys/vc_static/T-2022.06-SP2/bin:/home/summer/Cadence/IC618/tools/plot/bin:/home/summer/Cadence/IC618/tools/iccraft/bin:/home/summer/Cadence/IC618/tools/dracula/bin:/home/summer/Cadence/IC618/tools/dfII/bin:/home/summer/Cadence/IC618/tools/bin:/home/summer/Cadence/IC618/share/bin:/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/home/summer/Cadence/Spectre/tools/dfII/bin:/home/summer/Cadence/Spectre/tools/bin:/home/summer/Cadence/Spectre/bin:/home/summer/Cadence/INDAGOA722.03/tools.lnx86/bin:/home/summer/Cadence/INDAGOA722.03/tools/bin:/home/summer/Cadence/XCELIUMMAIN22.09/tools/bin:/home/summer/Cadence/XCELIUMMAIN22.09/bin:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/bin:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/dfII/bin:/home/summer/Cadence/GENUS21/tools.lnx86/bin:/home/summer/Cadence/VAPPS22.09/bin:/home/summer/Cadence/VDEBUG22/tools.lnx86/bin:/home/summer/Cadence/JASPER2022/bin:/home/summer/Cadence/Spectre/bin:/home/summer/Cadence/CONFRML22.20/bin:/home/summer/Mentor/calibre2022.2/aoj_cal_2022.2_38.20/bin:/home/summer/Mentor/questa_sim-2022.4_2/questasim/bin:/home/summer/Synopsys/syn/U-2022.12-SP1/bin:/home/summer/Synopsys/ufe_optional_spyglass-vcs/T-2022.06-SP2/SPYGLASS_HOME/bin:/home/summer/Synopsys/verdi/T-2022.06-SP2/bin:/home/summer/Synopsys/vcs/T-2022.06-SP2/bin:/home/summer/Synopsys/eclipse:/home/summer/Synopsys/scl/2023.03/linux64/bin:/home/summer/ARM/ARMDS/bin:/home/summer/ARM/Socrates:/home/summer/.local/bin:/home/summer/bin:/home/summer/Cadence/Spectre/tools/dfII/bin:/home/summer/Cadence/Spectre/tools/bin:/home/summer/Cadence/Spectre/bin:/home/summer/Cadence/INDAGOA722.03/tools.lnx86/bin:/home/summer/Cadence/INDAGOA722.03/tools/bin:/home/summer/Cadence/XCELIUMMAIN22.09/tools/bin:/home/summer/Cadence/XCELIUMMAIN22.09/bin:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/bin:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/dfII/bin:/home/summer/Cadence/GENUS21/tools.lnx86/bin:/home/summer/Cadence/VAPPS22.09/bin:/home/summer/Cadence/VDEBUG22/tools.lnx86/bin:/home/summer/Cadence/JASPER2022/bin:/home/summer/Cadence/Spectre/bin:/home/summer/Cadence/CONFRML22.20/bin:/home/summer/Mentor/calibre2022.2/aoj_cal_2022.2_38.20/bin:/home/summer/Mentor/questa_sim-2022.4_2/questasim/bin:/home/summer/Synopsys/syn/U-2022.12-SP1/bin:/home/summer/Synopsys/ufe_optional_spyglass-vcs/T-2022.06-SP2/SPYGLASS_HOME/bin:/home/summer/Synopsys/verdi/T-2022.06-SP2/bin:/home/summer/Synopsys/vcs/T-2022.06-SP2/bin:/home/summer/Synopsys/eclipse:/home/summer/Synopsys/scl/2023.03/linux64/bin:/home/summer/ARM/ARMDS/bin:/home/summer/ARM/Socrates
+LM_LICENSE_FILE=/home/summer/Synopsys/scl/2023.03/admin/license/Synopsys.dat
+QT_GRAPHICSSYSTEM_CHECKED=1
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2038,unix/unix:/tmp/.ICE-unix/2038
+SPECTRE_HOME=/home/summer/Cadence/Spectre
+XDG_RUNTIME_DIR=/run/user/1000
+EUCLIDE_HOME=/home/summer/Synopsys/eclipse
+CDS_AUTO_64BIT=ALL
+XDG_MENU_PREFIX=gnome-
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+XDG_SESSION_DESKTOP=gnome-classic
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+OA_HOME=/home/summer/Cadence/IC618/oa_v22.60.088
+DISPLAY=:0
+LD_PRELOAD=/usr/lib64/libssl.so.1.0.2k:/usr/lib64/libcrypto.so.1.0.2k
+MGC_HOME=/home/summer/Mentor
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+HOME=/home/summer
+VCS_HOME=/home/summer/Synopsys/vcs/T-2022.06-SP2
+PWD=/home/summer/Desktop/Project/Counter
+MGC_LICENSE_FILE=/home/summer/Mentor/license/license.dat
+XDG_SEAT=seat0
+SSH_AGENT_PID=2243
+INCISIVDIR=/home/summer/Cadence/XCELIUMMAIN22.09
+CALIBRE_HOME=/home/summer/Mentor/calibre2022.2/aoj_cal_2022.2_38.20
+VERDI_HOME=/home/summer/Synopsys/verdi/T-2022.06-SP2
+MGLS_LICENSE_FILE=/home/summer/Mentor/license/license.dat
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-QWKDymc5WM,guid=3116dfa76d52f00459213e9c66439804
+MGC_FDI_OA_VERSION=22.60
+LD_LIBRARY_PATH=/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64
+SPECMAN_HOME=/home/summer/Cadence/XCELIUMMAIN22.09/components/sn
+VRST_HOME=/home/summer/Cadence/XCELIUMMAIN22.09
+LOGNAME=summer
+LD_LIBRARY_PATH0=:/home/summer/Cadence/IC618/tools.lnx86/lib:/home/summer/Cadence/IC618/tools.lnx86/lib
+CDS_LIC_FILE=/home/summer/Cadence/lic/cds_license.dat
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+HOSTNAME=yian
+XDG_VTNR=1
+COLORTERM=truecolor
+QT_IM_MODULE=ibus
+VCS_ARCH_OVERRIDE=linux
+SHLVL=2
+LD_LIBRARY_PATH1=:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/lib:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/lib
+GNOME_SHELL_SESSION_MODE=classic
+XDG_SESSION_ID=1
+USER=summer
+QTLIB=/usr/lib64/qt-3.3/lib
+XDG_CURRENT_DESKTOP=GNOME-Classic:GNOME
+CDS_LOAD_ENV=CSF
+VC_STATIC_HOME=/home/summer/Synopsys/vc_static/T-2022.06-SP2
+IMSETTINGS_MODULE=none
+DS_HOME=/home/summer/ARM/ARMDS
+ARMLMD_LICENSE_FILE=/home/summer/ARM/lic/armlmd.lic
+MAKEFLAGS=
+MFLAGS=
+MAIL=/var/spool/mail/summer
+Cadence_Dir=/home/summer/Cadence
+SPYGLASS_HOME=/home/summer/Synopsys/ufe_optional_spyglass-vcs/T-2022.06-SP2/SPYGLASS_HOME
+DC_HOME=/home/summer/Synopsys/syn/U-2022.12-SP1
+CDS_2DFORM_FONT_SCALING=1
+MGC_LIB_PATH=/home/summer/Mentor/calibre2022.2/aoj_cal_2022.2_38.20/lib
+SPYGLASS_DC_PATH=/home/summer/Synopsys/syn/U-2022.12-SP1
+SCL_HOME=/home/summer/Synopsys/scl/2023.03
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/6f55c026_9f10_4d22_a598_f1a69d1b4ead
+DBUS_STARTER_BUS_TYPE=session
+GNOME_TERMINAL_SERVICE=:1.121
+HISTSIZE=1000
+Virtuoso_HOME=/home/summer/Cadence/IC618
+CDS_Netlisting_Mode=Analog
+WINDOWPATH=1
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+LANG=en_US.UTF-8
+TERM=xterm-256color
+DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-QWKDymc5WM,guid=3116dfa76d52f00459213e9c66439804
+MAKELEVEL=1
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_STACK_EXEC=true
+VCS_EXEC_DONE=1
+LC_ALL=C
+DVE=/home/summer/Synopsys/vcs/T-2022.06-SP2/gui/dve
+SPECMAN_OUTPUT_TO_TTY=1
+FLEXLM_BORROWFILE=/home/summer/.yian-borrow.txt
+Runtime command line arguments:
+argv[0]=././build/simtop
+argv[1]=-l
+argv[2]=./build/log/run.log
+254 profile - 100
+          CPU/Mem usage: 0.020 sys,  0.110 user,  281.68M mem
+255 Elapsed time:    0:00:00    Tue May 14 10:19:00 2024
+256 User CPU time used: 0 seconds
+257 System CPU time used: 0 seconds
+258 pliAppInit
+259 [SC]Init: MemoryConsumed=0.00MB ElapsedTime=0hour 0min. 0sec.
+260 FSDB_GATE is set.
+261 FSDB_RTL is set.
+262 FSDB_ALIAS_ARRAY_ELEM is set to 4294967295.
+263 Enable Parallel Dumping.
+264 pliAppMiscSet: New Sim Round
+265 pliEntryInit
+266 LIBSSCORE=found /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/lib/LINUXAMD64/libsscore_vcs202206.so through $NOVAS_HOME setting.
+267 FSDB Dumper for VCS, Release Verdi_T-2022.06-SP2, Linux x86_64/64bit, 11/22/2022
+268 (C) 1996 - 2022 by Synopsys, Inc.
+269 sps_call_fsdbDumpfile_main at 0 : /home/summer/Desktop/Project/Counter/sim/tb.v(29)
+270 argv[0]: (./test.fsdb)
+271 *Verdi* : Create FSDB file './test.fsdb'
+272 [spi_vcs_vd_ppi_create_root]: no upf option
+273 compile option from '/home/summer/Desktop/Project/Counter/build/simtop.daidir/vcs_rebuild'.
+274   "vcs '+v2k' '-full64' '-debug_acc+all' '-debug_region+cell+encrypt' '-LDFLAGS' '-Wl,--no-as-needed' '-timescale=1ns/1ps' '-o' './build/simtop' '-l' './build/log/report.log' '-P' '/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/novas.tab' '/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/pli.a' '/home/summer/Desktop/Project/Counter/src/ccc.v' '/home/summer/Desktop/Project/Counter/sim/tb.v' 2>&1"
+275 DVDI_is_vir_unload_enabled is enable
+276 FSDB_VCS_ENABLE_NATIVE_VC is enable
+277 sps_call_fsdbDumpvars_vd_main at 0 : /home/summer/Desktop/Project/Counter/sim/tb.v(30)
+278 *Verdi* : Begin traversing the scopes, layer (0).
+279 *Verdi* : End of traversing.
+280 pliAppHDL_DumpVarComplete traverse var: profile - 
+          CPU/Mem usage: 0.030 sys,  0.120 user,  381.08M mem
+                   incr: 0.000 sys,  0.010 user,  7.77M mem
+                   accu: 0.000 sys,  0.010 user,  7.77M mem
+              accu incr: 0.000 sys,  0.010 user,  7.77M mem
+
+          Count usage: 6 var,  6 idcode,  3 callback
+                 incr: 6 var,  6 idcode,  3 callback
+                 accu: 6 var,  6 idcode,  3 callback
+            accu incr: 6 var,  6 idcode,  3 callback
+281 Elapsed time:    0:00:00    Tue May 14 10:19:00 2024
+282 User CPU time used: 0 seconds
+283 System CPU time used: 0 seconds
+284 pliAppHDL_DumpVarComplete: profile - 
+          CPU/Mem usage: 0.030 sys,  0.120 user,  382.13M mem
+                   incr: 0.000 sys,  0.000 user,  1.05M mem
+                   accu: 0.000 sys,  0.010 user,  8.82M mem
+              accu incr: 0.000 sys,  0.000 user,  1.05M mem
+
+          Count usage: 6 var,  6 idcode,  3 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 6 var,  6 idcode,  3 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+285 Elapsed time:    0:00:00    Tue May 14 10:19:00 2024
+286 User CPU time used: 0 seconds
+287 System CPU time used: 0 seconds
+288 End of simulation at 500000
+289 Memory usage: 382.128 M
+290 Maximum resident set size: 155 MB
+291 Hard page faults: 0
+292 Soft page faults: 25361
+293 Elapsed time:    0:00:00    Tue May 14 10:19:00 2024
+294 User CPU time used: 0 seconds
+295 System CPU time used: 0 seconds
+296 Begin FSDB profile info:
+297 FSDB Writer : bc1(53) bcn(27) mtf/stf(0/0)
+FSDB Writer elapsed time : flush(0.001695) io wait(0.000000) theadpool wait(0.000000)
+FSDB Writer cpu time : MT Compression : 0
+298 End FSDB profile info
+299 FSDB closed. Name: ./test.fsdb Size: 9078
+300 Parallel profile     - ProducerThread:1 ConsumerThread:1 Buffer:64MB
+301                      - BlockUsed:1 Acquire:129 BufferUsed:1707
+302                      - Flush:3 Expand:0 ProducerWait:0 ConsumerWait:0
+303                      - MainProducerTime:0.163663454 TotalConsumerTime:0.000000000
+304                      - ElapsedTime:0.027619000
+305 Producer   0 profile - BlockUsed:1 Acquire:129 BufferUsed:1707
+306 Consumer   0 profile - Affinity:-1 CPUTime:0.000000000 LifeTime:0.000000000 (-nan%)
+307                      - BlockUsed:1 Acquire:129 BufferUsed:1707
+308 SimExit
+309 Elapsed time:    0:00:00    Tue May 14 10:19:00 2024
+310 User CPU time used: 0 seconds
+311 System CPU time used: 0 seconds
+312 Sim process exit

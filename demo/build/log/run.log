@@ -1,0 +1,16 @@
+Command: /home/summer/Desktop/Project/Counter/././build/simtop -l ./build/log/run.log
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP2_Full64; Runtime version T-2022.06-SP2_Full64;  May 14 10:19 2024
+*Verdi* Loading libsscore_vcs202206.so
+FSDB Dumper for VCS, Release Verdi_T-2022.06-SP2, Linux x86_64/64bit, 11/22/2022
+(C) 1996 - 2022 by Synopsys, Inc.
+*Verdi* : Create FSDB file './test.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+$finish called from file "/home/summer/Desktop/Project/Counter/sim/tb.v", line 34.
+$finish at simulation time               500000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 500000 ps
+CPU Time:      0.160 seconds;       Data structure size:   0.0Mb
+Tue May 14 10:19:00 2024

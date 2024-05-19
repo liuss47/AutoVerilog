@@ -1,0 +1,150 @@
+0
+39
++itf+/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/vcsdp_lite.tab
++v2k
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/summer/Synopsys/vcs/T-2022.06-SP2/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -Wl,--no-as-needed -rdynamic
+-Mobjects= /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libvirsim.so /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/liberrorinf.so /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libsnpsmalloc.so /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libvfs.so /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/pli.a
+-Mout=./build/simtop
+-Msaverestoreobj=/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64/pli.a -ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/summer/Synopsys/vcs/T-2022.06-SP2/include
+-Mxllcflags=
+-P
+-P
+-debug_acc+all
+-debug_region+cell+encrypt
+-fsdb
+-full64
+-gen_obj
+-l
+-o ./build/simtop
+-picarchive
+-timescale=1ns/1ps
+/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/bin/vcs1
+./build/log/report.log
+./build/simtop
+/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/novas.tab
+/home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64/verdi.tab
+/home/summer/Desktop/Project/Counter/src/ccc.v
+/home/summer/Desktop/Project/Counter/sim/tb.v
+92
+XMODIFIERS=@im=ibus
+XDG_VTNR=1
+XDG_SESSION_TYPE=x11
+XDG_SESSION_ID=1
+XDG_SESSION_DESKTOP=gnome-classic
+XDG_SEAT=seat0
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+XDG_DATA_DIRS=/home/summer/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+XDG_CURRENT_DESKTOP=GNOME-Classic:GNOME
+XAUTHORITY=/run/gdm/auth-for-summer-Ua7SNk/database
+WINDOWPATH=1
+Virtuoso_HOME=/home/summer/Cadence/IC618
+VTE_VERSION=5204
+VRST_HOME=/home/summer/Cadence/XCELIUMMAIN22.09
+VMR_MODE_FLAG=64
+VERDI_HOME=/home/summer/Synopsys/verdi/T-2022.06-SP2
+VC_STATIC_HOME=/home/summer/Synopsys/vc_static/T-2022.06-SP2
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=./build/log/report.log
+VCS_HOME=/home/summer/Synopsys/vcs/T-2022.06-SP2
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+USERNAME=summer
+UNAME=/bin/uname
+TOOL_HOME=/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SSH_AGENT_PID=2243
+SPYGLASS_HOME=/home/summer/Synopsys/ufe_optional_spyglass-vcs/T-2022.06-SP2/SPYGLASS_HOME
+SPYGLASS_DC_PATH=/home/summer/Synopsys/syn/U-2022.12-SP1
+SPECTRE_HOME=/home/summer/Cadence/Spectre
+SPECMAN_HOME=/home/summer/Cadence/XCELIUMMAIN22.09/components/sn
+SPECMAN_DIR=/home/summer/Cadence/XCELIUMMAIN22.09/components/sn/
+SNPS_VCS_CLANG_PATH=/home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/clang
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2038,unix/unix:/tmp/.ICE-unix/2038
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SCL_HOME=/home/summer/Synopsys/scl/2023.03
+QT_IM_MODULE=ibus
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+OVA_UUM=0
+OS_LDFLAGS=
+OA_PLUGIN_PATH=/home/summer/Cadence/IC618/oa_v22.60.088/data/plugins
+OA_HOME=/home/summer/Cadence/IC618/oa_v22.60.088
+MGLS_LICENSE_FILE=/home/summer/Mentor/license/license.dat
+MGC_LICENSE_FILE=/home/summer/Mentor/license/license.dat
+MGC_LIB_PATH=/home/summer/Mentor/calibre2022.2/aoj_cal_2022.2_38.20/lib
+MGC_HOME=/home/summer/Mentor
+MGC_FDI_OA_VERSION=22.60
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LD_LIBRARY_PATH1=:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/lib:/home/summer/Cadence/XCELIUMMAIN22.09/tools.lnx86/lib
+LD_LIBRARY_PATH0=:/home/summer/Cadence/IC618/tools.lnx86/lib:/home/summer/Cadence/IC618/tools.lnx86/lib
+LC_ALL=C
+INDAGO_ROOT=/home/summer/Cadence/INDAGOA722.03
+INCISIVDIR=/home/summer/Cadence/XCELIUMMAIN22.09
+IMSETTINGS_MODULE=none
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+HISTCONTROL=ignoredups
+GNOME_TERMINAL_SERVICE=:1.121
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/6f55c026_9f10_4d22_a598_f1a69d1b4ead
+GNOME_SHELL_SESSION_MODE=classic
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDM_LANG=en_US.UTF-8
+GDMSESSION=gnome-classic
+EUCLIDE_HOME=/home/summer/Synopsys/eclipse
+DS_HOME=/home/summer/ARM/ARMDS
+DESKTOP_SESSION=gnome-classic
+DC_HOME=/home/summer/Synopsys/syn/U-2022.12-SP1
+DBUS_STARTER_BUS_TYPE=session
+DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-QWKDymc5WM,guid=3116dfa76d52f00459213e9c66439804
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-QWKDymc5WM,guid=3116dfa76d52f00459213e9c66439804
+Cadence_Dir=/home/summer/Cadence
+COLORTERM=truecolor
+CDS_Netlisting_Mode=Analog
+CDS_LOAD_ENV=CSF
+CDS_LIC_FILE=/home/summer/Cadence/lic/cds_license.dat
+CDS_AUTO_64BIT=ALL
+CDS_2DFORM_FONT_SCALING=1
+CALIBRE_HOME=/home/summer/Mentor/calibre2022.2/aoj_cal_2022.2_38.20
+ARMLMD_LICENSE_FILE=/home/summer/ARM/lic/armlmd.lic
+0
+0
+5
+1715706607 /home/summer/Desktop/Project/Counter/sim/tb.v
+1715706616 /home/summer/Desktop/Project/Counter/src/ccc.v
+1669114307 /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUX64/verdi.tab
+1669114307 /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/novas.tab
+1669781155 /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/vcsdp_lite.tab
+5
+1669783182 /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libvirsim.so
+1669782209 /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/liberrorinf.so
+1669782120 /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libsnpsmalloc.so
+1669782200 /home/summer/Synopsys/vcs/T-2022.06-SP2/linux64/lib/libvfs.so
+1669113081 /home/summer/Synopsys/verdi/T-2022.06-SP2/share/PLI/VCS/LINUXAMD64/pli.a
+1715707140 ./build/simtop.daidir
+-1 partitionlib
